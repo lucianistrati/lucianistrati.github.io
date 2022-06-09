@@ -14,4 +14,4 @@ My main interests are in Natural Language Understanding (especially Information 
 
 ### Contact
 
-Mail me at lucianistrati@yahoo.com or connect with me on LinkedIn https://www.linkedin.com/in/lucian-istrati/
+Write me on my [Email](lucianistrati@yahoo.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucian-istrati/).
