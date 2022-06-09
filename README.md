@@ -12,6 +12,8 @@ I have also plenty of interest into research, unfortunately I managed to publish
 
 My main interests are in Natural Language Understanding (especially Information Extraction & Multi-level Text analysis), Timeseries (Analysis / Forecasting / Anomaly detection), Representational Learning, Multimodal Learning and Recommender Systems.
 
+Other hobbies of mine outside Computer Science: reading, sports, politics and language learning.
+
 ### Contact
 
-Write me on my Email - lucianistrati@yahoo.com, follow me on [Twitter](https://twitter.com/LucianIstrati) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucian-istrati/).
+Write me on my Email - lucianistrati@yahoo.com, message me on [Facebook](https://www.facebook.com/istrati.lucian/) / [Twitter](https://twitter.com/LucianIstrati) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucian-istrati/). Let me know if you are in Bucharest, Romania and want to meet for a chat.
