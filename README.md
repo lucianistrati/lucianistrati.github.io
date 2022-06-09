@@ -1,5 +1,7 @@
 ## Lucian Istrati - ML Engineer and AI Enthusiast
 
+![alt text](profile.jpg)
+
 I am a Machine Learning Engineering involved in multiple AI-related projects, the two on which I focus the most are a business one with a friend and a volunteering oriented one inside ["Integritate pe Bune"](https://integritatepebune.ro/) NGO.
 
 I have two years of working experience in Machine Learning. The companies/institutions I worked for are (in chronological order): [SRI(Romanian Intelligence Service)](https://www.sri.ro/), [Metaminds](https://www.metaminds.com/), [EmailTreeAI](https://emailtree.ai/) and [Ordaos Bio](https://ordaos.bio/). I worked with all kinds of data in my ML engineering roles: video, image, text, biological, timeseries and tabular.
