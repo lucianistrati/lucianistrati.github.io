@@ -1,6 +1,17 @@
 ## Lucian Istrati - ML Engineer and AI Enthusiast
 
-![alt text](profile.jpg)
+<img src="images/profile.jpg" width="33%" height="33%">
+
+### General information:
+
+- Nationality: Romanian
+- Location: Bucharest, Romania
+- Date of Birth: September 13, 1999
+- Mail:  lucianistrati@yahoo.com
+- Languages: Romanian/English (advanced), French/Spanish (intermediate), German (beginner)
+- Programming languages: Python (advanced), C++/Java/R (intermediate), Julia (beginner)
+
+### About me
 
 I am a Machine Learning Engineering involved in multiple AI-related projects, the two on which I focus the most are a business one with a friend and a volunteering oriented one inside ["Integritate pe Bune"](https://integritatepebune.ro/) NGO.
 
@@ -14,8 +25,8 @@ I have also plenty of interest into research, unfortunately I managed to publish
 
 My main interests are in Natural Language Understanding (especially Information Extraction & Multi-level Text analysis), Timeseries (Analysis / Forecasting / Anomaly detection), Representational Learning, Multimodal Learning and Recommender Systems.
 
-Other hobbies of mine outside Computer Science: reading, sports, politics and language learning.
+Other hobbies of mine outside Computer Science: reading, sports, travelling, politics and language learning.
 
 ### Contact
 
-Write me on my Email - lucianistrati@yahoo.com, message me on [Facebook](https://www.facebook.com/istrati.lucian/) / [Twitter](https://twitter.com/LucianIstrati) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucian-istrati/). Let me know if you are in Bucharest, Romania and want to meet for a chat.
+Write me on my Email - lucianistrati@yahoo.com, message me on [Facebook](https://www.facebook.com/istrati.lucian/) / [Twitter](https://twitter.com/LucianIstrati) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucian-istrati/). Let me know if you are in Bucharest and want to meet for a chat.
