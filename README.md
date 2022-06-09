@@ -1,4 +1,4 @@
-## Lucian Istrati - ML Engineer and AI Enthusiast
+<!-- ## Lucian Istrati - ML Engineer and AI Enthusiast-->
 
 <img src="images/profile.jpg" width="33%" height="33%">
 
