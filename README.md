@@ -9,11 +9,11 @@
 - Date of Birth: September 13, 1999
 - Mail:  lucianistrati@yahoo.com
 - Languages: Romanian/English (advanced), French/Spanish (intermediate), German (beginner)
-- Programming languages: Python (advanced), C++/Java/R (intermediate), Julia (beginner)
+- Programming languages: Python (advanced), C++/Java (intermediate), R/Julia (beginner)
 
 ### About me
 
-I am a Machine Learning Engineering involved in multiple AI-related projects, the two on which I focus the most are a business one with a friend and a volunteering oriented one inside ["Integritate pe Bune"](https://integritatepebune.ro/) NGO.
+I am a Machine Learning Engineering involved in multiple AI-related projects, the two on which I focus the most are a business one with a partner and a volunteering oriented one inside ["Integritate pe Bune"](https://integritatepebune.ro/) NGO.
 
 I have two years of working experience in Machine Learning. The companies/institutions I worked for are (in chronological order): [SRI(Romanian Intelligence Service)](https://www.sri.ro/), [Metaminds](https://www.metaminds.com/), [EmailTreeAI](https://emailtree.ai/) and [Ordaos Bio](https://ordaos.bio/). I worked with all kinds of data in my ML engineering roles: video, image, text, biological, timeseries and tabular.
 
@@ -29,4 +29,4 @@ Other hobbies of mine outside Computer Science: reading, sports, travelling, pol
 
 ### Contact
 
-Write me on my Email - lucianistrati@yahoo.com, message me on [Facebook](https://www.facebook.com/istrati.lucian/) / [Twitter](https://twitter.com/LucianIstrati) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucian-istrati/). Let me know if you are in Bucharest and want to meet for a chat.
+You can take a look at my CV <a href="static/CV_June_2021.pdf" target="_blank">here</a>. If you are interested in a collaboration write me at my Email - lucianistrati@yahoo.com, message me on [Facebook](https://www.facebook.com/istrati.lucian/) / [Twitter](https://twitter.com/LucianIstrati) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucian-istrati/). Let me know if you are in Bucharest and want to meet for a chat.
