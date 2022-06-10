@@ -19,7 +19,7 @@ I have two years of working experience in Machine Learning. The companies/instit
 
 My personal projects are various from timeseries analysis & forecasting to information extraction & name entity recognition, from various text classifications & visualization projects to multimodal & representational models.
 
-On the educational side I graduated one year ago with Bachelor of Science Degree in Computer Science at University of Bucharest. I am midway through my Master of Science Degree in Data Science at the same university. For the future I am considering starting a Ph.D. Degree in Machine Learning next year, most likely in France or Germany.
+On the educational side I graduated one year ago with Bachelor of Science Degree in Computer Science at University of Bucharest. I am midway through my Master of Science Degree in Data Science at the same university. For the future I am considering starting a Ph.D. Degree in Machine Learning next year, I would like to do it in France, Germany or in the USA.
 
 I have also plenty of interest into research, unfortunately I managed to publish just one paper so far with some other works being left unfinished. Hopefully with time I will have more stuff to showcase on [ResearchGate](https://www.researchgate.net/profile/Lucian-Istrati-2) and [GoogleScholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=us0728YAAAAJ&citft=1&citft=2&citft=3&email_for_op=lucian.istrati%40my.fmi.unibuc.ro)
 
