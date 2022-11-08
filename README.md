@@ -30,3 +30,5 @@ Other hobbies of mine outside Computer Science: reading, sports, travelling, pol
 ### Contact
 
 You can take a look at my CV <a href="static/CV_June_2021.pdf" target="_blank">here</a>. If you are interested in a collaboration write me at my Email - lucianistrati@yahoo.com, message me on [Facebook](https://www.facebook.com/istrati.lucian/) / [Twitter](https://twitter.com/LucianIstrati) or connect with me on [LinkedIn](https://www.linkedin.com/in/lucian-istrati/). Let me know if you are in Bucharest and want to meet for a chat.
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
