@@ -5,7 +5,7 @@
 ### General information:
 
 - Nationality: Romanian
-- Location: Bucharest, Romania
+- Location: Cologne, Germany
 - Date of Birth: September 13, 1999
 - Mail:  lucianistrati@yahoo.com
 - Languages: Romanian/English (advanced), French/Spanish (intermediate), German (beginner)
