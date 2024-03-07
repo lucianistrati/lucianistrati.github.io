@@ -10,6 +10,13 @@
 - Mail:  lucianistrati@yahoo.com
 - Languages: Romanian/English (advanced), French/Spanish (intermediate), German (beginner)
 - Programming languages: Python (advanced), C++/Java (intermediate), R/Julia (beginner)
+- 📫 Reach me by: 
+  - email at lucianistrati@yahoo.com 
+  - connect with me on LinkedIn at https://www.linkedin.com/in/lucian-istrati/
+  - follow me on Twitter at https://twitter.com/LucianIstrati
+  - read some of my articles on Medium / Towards Data Science at https://medium.com/@lucianistrati99
+  - subscribe to my substack to get notified when I post naythign at https://substack.com/@lucianistrati?utm_source=profile-page
+  
 
 ### About me
 
