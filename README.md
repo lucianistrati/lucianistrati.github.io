@@ -5,22 +5,22 @@
 ### General information:
 
 - Nationality: Romanian
-- Location: Cologne, Germany
+- Location: Vienna, Austria
 - Date of Birth: September 13, 1999
 - Mail:  lucianistrati@yahoo.com
-- Languages: Romanian/English (advanced), French/Spanish (intermediate), German (beginner)
+- Languages: Romanian/English (bilingual), French/Spanish (intermediate), German (beginner)
 - Programming languages: Python (advanced), C++/Java (intermediate), R/Julia (beginner)
-- 📫 Reach me by: 
-  - email at lucianistrati@yahoo.com 
-  - connect with me on LinkedIn at https://www.linkedin.com/in/lucian-istrati/
-  - follow me on Twitter at https://twitter.com/LucianIstrati
-  - read some of my articles on Medium / Towards Data Science at https://medium.com/@lucianistrati99
-  - subscribe to my substack to get notified when I post naythign at https://substack.com/@lucianistrati?utm_source=profile-page
+- 📫 How to reach me?
+  - write me an email at lucianistrati@yahoo.com 
+  - connect with me on LinkedIn at [lucian-istrati](https://www.linkedin.com/in/lucian-istrati/)
+  - follow me on Twitter at ["LucianIstrati"](https://twitter.com/LucianIstrati)
+  - read some of my articles on Medium / Towards Data Science at ["lucianistrati99"](https://medium.com/@lucianistrati99)
+  - subscribe to my substack to get notified when I post anything at ["lucianistrati"](https://substack.com/@lucianistrati?utm_source=profile-page)
   
 
 ### About me
 
-I am a Machine Learning Engineering involved in multiple AI-related projects, the two on which I focus the most are a business one with a partner and a volunteering oriented one inside ["Integritate pe Bune"](https://integritatepebune.ro/) NGO.
+I am currently working as a member of the founding team at Proofcheck where I work as Lead AI Engineer. 
 
 I have two years of working experience in Machine Learning. The companies/institutions I worked for are (in chronological order): [SRI(Romanian Intelligence Service)](https://www.sri.ro/), [Metaminds](https://www.metaminds.com/), [EmailTreeAI](https://emailtree.ai/) and [Ordaos Bio](https://ordaos.bio/). I worked with all kinds of data in my ML engineering roles: video, image, text, biological, timeseries and tabular.
 
