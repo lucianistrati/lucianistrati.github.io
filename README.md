@@ -13,9 +13,9 @@
 - 📫 How to reach me?
   - write me an email at lucianistrati@yahoo.com 
   - connect with me on LinkedIn at [lucian-istrati](https://www.linkedin.com/in/lucian-istrati/)
-  - follow me on Twitter at ["LucianIstrati"](https://twitter.com/LucianIstrati)
-  - read some of my articles on Medium / Towards Data Science at ["lucianistrati99"](https://medium.com/@lucianistrati99)
-  - subscribe to my substack to get notified when I post anything at ["lucianistrati"](https://substack.com/@lucianistrati?utm_source=profile-page)
+  - follow me on Twitter at [LucianIstrati](https://twitter.com/LucianIstrati)
+  - read some of my articles on Medium / Towards Data Science at [lucianistrati99](https://medium.com/@lucianistrati99)
+  - subscribe to my substack to get notified when I post anything at [lucianistrati](https://substack.com/@lucianistrati?utm_source=profile-page)
   
 
 ### About me
