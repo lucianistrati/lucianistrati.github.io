@@ -10,18 +10,19 @@
 - Programming languages: Python (advanced), C++/Java (intermediate), R/Julia (beginner)
 - 📫 How to reach me?
   - connect with me on LinkedIn at [lucian-istrati](https://www.linkedin.com/in/lucian-istrati/)
+- Currently based in Abu Dhabi, United Arab Emirates 🇦🇪
 
 ### About me
 
-I am currently working as a Freelancer AI Engineer. 
+I am currently working as an AI Security Engineer. 
 
-I have two years of working experience in Machine Learning. The companies/institutions I worked for are (in chronological order): [SRI(Romanian Intelligence Service)](https://www.sri.ro/), [Metaminds](https://www.metaminds.com/), [EmailTreeAI](https://emailtree.ai/), [Ordaos Bio](https://ordaos.bio/) and [Apadua](https://apadua.com/). I worked with all kinds of data in my ML engineering roles: video, image, text, biological, timeseries and tabular.
+I have 5 years of working experience in Machine Learning. The companies/institutions I worked for are (in chronological order): [SRI(Romanian Intelligence Service)](https://www.sri.ro/), [Metaminds](https://www.metaminds.com/), [EmailTreeAI](https://emailtree.ai/), [Ordaos Bio](https://ordaos.bio/) and [Apadua](https://apadua.com/). I worked with all kinds of data in my ML engineering roles: video, image, text, biological, timeseries, cybersecurity and general tabular data.
 
 My personal projects are various from timeseries analysis & forecasting to information extraction & name entity recognition, from various text classifications & visualization projects to multimodal & representational models.
 
 On the educational side I graduated with a Bachelor of Science Degree in Computer Science at University of Bucharest and Master of Science Degree in Data Science also from the University of Bucharest.
 
-I have also plenty of interest into research, unfortunately I managed to publish just one paper so far with some other works being left unfinished. Hopefully with time I will have more stuff to showcase on [ResearchGate](https://www.researchgate.net/profile/Lucian-Istrati-2) and [GoogleScholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=us0728YAAAAJ&citft=1&citft=2&citft=3&email_for_op=lucian.istrati%40my.fmi.unibuc.ro)
+I have also plenty of interest into research, I managed to publish just one paper on [ResearchGate](https://www.researchgate.net/profile/Lucian-Istrati-2) and [GoogleScholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=us0728YAAAAJ&citft=1&citft=2&citft=3&email_for_op=lucian.istrati%40my.fmi.unibuc.ro)
 
 My main interests are in Natural Language Understanding (especially Information Extraction & Multi-level Text analysis), Timeseries (Analysis / Forecasting / Anomaly detection), Representational Learning, Multimodal Learning and Recommender Systems.
 
